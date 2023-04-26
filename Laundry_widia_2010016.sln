@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Laundry_widia_2010016", "Laundry_widia_2010016\Laundry_widia_2010016.vbproj", "{028BF477-9869-4223-8A2C-83DB57673556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028BF477-9869-4223-8A2C-83DB57673556}.Debug|x86.ActiveCfg = Debug|x86
+		{028BF477-9869-4223-8A2C-83DB57673556}.Debug|x86.Build.0 = Debug|x86
+		{028BF477-9869-4223-8A2C-83DB57673556}.Release|x86.ActiveCfg = Release|x86
+		{028BF477-9869-4223-8A2C-83DB57673556}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
